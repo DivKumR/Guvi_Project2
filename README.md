@@ -94,17 +94,17 @@ Attached Files & Folders
 - data_extraction.ipynb → Extracting stock data
 - data_cleaning.ipynb → Cleaning and transforming data
 - visualization.ipynb → Exploratory stock performance analysis
-- 
+  
 📂 Streamlit Application:
 
 - app.py → Main dashboard script
 - tickeranalysis → Subpage 
 - class.py → Component & style definitions
-- 
+  
 📂 Data Storage:
 - Stock_Data_CSVs/ → Folder containing collected stock CSV files
 - MySQL database for stock metrics
-- 
+  
 📂 Documentation:
 - Results.pdf → Screenshots showcasing the dashboard and analysis results
 

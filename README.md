@@ -1,4 +1,4 @@
-# Guvi_Project2
+# Stock Performance Dashboard
 ****Stock Performance Dashboard - Assignment 2**
 Project Description**
 A detailed project description can be found here: https://docs.google.com/document/d/1AYMyK5XXRNyrIoimt4zjSEvVyaMQPXCNnOPwVsgo2IA/edit?tab=t.0#heading=h.dg45ga16ik17
